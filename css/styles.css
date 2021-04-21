@@ -1,0 +1,15 @@
+*{
+    font-family: 'Antonio', sans-serif;
+}
+body{
+    background-color: black;
+}
+#container{
+    background-image: url("../images/background1.jpg");
+  width: 1000px;
+  height: 550px;
+  margin: 20px auto;
+
+   
+
+}
